@@ -1,0 +1,7 @@
+data:
+  root: /scratch/datasets/carlane/MoLane/data
+  splits_root: /scratch/datasets/carlane/MoLane/splits
+
+training:
+  batch_size: 16
+  num_epochs: 100
