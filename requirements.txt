@@ -1,0 +1,13 @@
+torch>=1.10
+torchvision>=0.11
+numpy
+opencv-python
+albumentations
+matplotlib
+tqdm>=4.65
+pyyaml
+tensorboard
+onnx
+onnxruntime
+onnxscript
+pytest
